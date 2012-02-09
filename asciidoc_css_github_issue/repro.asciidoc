@@ -1,0 +1,10 @@
+
+issue with how github's asciidoc rendering of pre
+
+--------
+  def some_method
+    puts "yay - not so much"
+  end
+--------
+
+no fun
